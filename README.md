@@ -1,3 +1,9 @@
+# About this repo
+
+This is a reproducible test case for a problem with a plugin in Snowpack 3.0.11.
+
+See [https://github.com/snowpackjs/snowpack/discussions/2526](https://github.com/snowpackjs/snowpack/discussions/2526) for full details.
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
